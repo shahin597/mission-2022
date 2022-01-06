@@ -11,11 +11,13 @@ body {
     border-left: 3px solid;
     border-image-slice: 1;
     border-image: linear-gradient(yellow cyan);
+    padding-left: 10px;
 }
 
 .width {
     width: 50%;
     text-align: justify;
+    align-items: center;
 
 
 }
@@ -160,6 +162,7 @@ footer {
 
 .font {
     font-family: 'Lobster', cursive;
+    padding-top: 5px;
 }
 
 .contact input {
