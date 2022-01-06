@@ -105,3 +105,34 @@ h2 {
 
     width: 80%;
 }
+
+.Develop {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 156px;
+
+}
+
+.width-girl img {
+    width: 400px;
+    height: 400px;
+    left: 158px;
+    top: 1185px;
+
+    background: url(.jpg), #FFFFFF;
+    border-radius: 26px;
+}
+
+.width-girl {
+    width: 50%;
+}
+
+.Develop {
+    padding-top: 50px;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.Down {
+    margin-top: 50px;
+}
